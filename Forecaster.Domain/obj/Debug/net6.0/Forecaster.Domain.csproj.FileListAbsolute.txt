@@ -1,0 +1,12 @@
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\bin\Debug\net6.0\Forecaster.Domain.deps.json
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\bin\Debug\net6.0\Forecaster.Domain.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\bin\Debug\net6.0\ref\Forecaster.Domain.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\bin\Debug\net6.0\Forecaster.Domain.pdb
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.csproj.AssemblyReference.cache
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.AssemblyInfoInputs.cache
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.AssemblyInfo.cs
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.csproj.CoreCompileInputs.cache
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\ref\Forecaster.Domain.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.Domain\obj\Debug\net6.0\Forecaster.Domain.pdb

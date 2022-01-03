@@ -1,0 +1,15 @@
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.csproj.AssemblyReference.cache
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.AssemblyInfoInputs.cache
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.AssemblyInfo.cs
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\bin\Debug\net6.0\Forecaster.UseCases.deps.json
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\bin\Debug\net6.0\Forecaster.UseCases.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\bin\Debug\net6.0\ref\Forecaster.UseCases.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\bin\Debug\net6.0\Forecaster.UseCases.pdb
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\bin\Debug\net6.0\Forecaster.Domain.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\bin\Debug\net6.0\Forecaster.Domain.pdb
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.csproj.CopyComplete
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\ref\Forecaster.UseCases.dll
+C:\Users\osovs\source\repos\AgileForecaster\Forecaster.UseCases\obj\Debug\net6.0\Forecaster.UseCases.pdb

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6338677c-61fb-411c-b156-e4d10cce2895": {
+      "ProjectGuid": "6338677c-61fb-411c-b156-e4d10cce2895",
+      "DisplayName": "AgileForecaster",
+      "ColorIndex": 0
+    },
+    "54f1ec4d-d0ed-4cbc-8071-3a2f42195db0": {
+      "ProjectGuid": "54f1ec4d-d0ed-4cbc-8071-3a2f42195db0",
+      "DisplayName": "Forecaster.Domain.Tests",
+      "ColorIndex": 1
+    },
+    "9bef5240-7bc9-4d0b-8bc1-7191241d6686": {
+      "ProjectGuid": "9bef5240-7bc9-4d0b-8bc1-7191241d6686",
+      "DisplayName": "Forecaster.UseCases.Tests",
+      "ColorIndex": 2
+    },
+    "7127f8a7-c3f3-4d49-8e5d-60f17bf781ae": {
+      "ProjectGuid": "7127f8a7-c3f3-4d49-8e5d-60f17bf781ae",
+      "DisplayName": "Forecaster.Domain",
+      "ColorIndex": 3
+    },
+    "73d2107c-f5f1-4f35-bb4c-45822d1a3360": {
+      "ProjectGuid": "73d2107c-f5f1-4f35-bb4c-45822d1a3360",
+      "DisplayName": "Forecaster.UseCases",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
